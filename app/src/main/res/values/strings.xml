@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ActivitiesStacksAndTasks</string>
+    <string name="title_activity_activity">ActivityA</string>
+    <string name="title_activity_b">ActivityB</string>
+</resources>
